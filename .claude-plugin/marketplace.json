@@ -1,11 +1,11 @@
 {
-  "name": "anthropic-agent-skills",
+  "name": "osamabinador-skills",
   "owner": {
-    "name": "Keith Lazuka",
-    "email": "klazuka@anthropic.com"
+    "name": "Osama Bin Ador",
+    "email": "osamabinador@example.com"
   },
   "metadata": {
-    "description": "Anthropic example skills",
+    "description": "Comprehensive collection of skills for Claude AI and other AI coding agents",
     "version": "1.0.0"
   },
   "plugins": [
@@ -19,6 +19,22 @@
         "./skills/docx",
         "./skills/pptx",
         "./skills/pdf"
+      ]
+    },
+    {
+      "name": "huggingface-skills",
+      "description": "Hugging Face ML skills for dataset management, model training, evaluation, and Hub operations",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/hf-hugging-face-cli",
+        "./skills/hf-hugging-face-datasets",
+        "./skills/hf-hugging-face-evaluation",
+        "./skills/hf-hugging-face-jobs",
+        "./skills/hf-hugging-face-model-trainer",
+        "./skills/hf-hugging-face-paper-publisher",
+        "./skills/hf-hugging-face-tool-builder",
+        "./skills/hf-hugging-face-trackio"
       ]
     },
     {
