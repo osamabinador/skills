@@ -27,14 +27,14 @@
       "source": "./",
       "strict": false,
       "skills": [
-        "./skills/hf-hugging-face-cli",
-        "./skills/hf-hugging-face-datasets",
-        "./skills/hf-hugging-face-evaluation",
-        "./skills/hf-hugging-face-jobs",
-        "./skills/hf-hugging-face-model-trainer",
-        "./skills/hf-hugging-face-paper-publisher",
-        "./skills/hf-hugging-face-tool-builder",
-        "./skills/hf-hugging-face-trackio"
+        "./skills/huggingface-cli",
+        "./skills/huggingface-datasets",
+        "./skills/huggingface-evaluation",
+        "./skills/huggingface-jobs",
+        "./skills/huggingface-model-trainer",
+        "./skills/huggingface-paper-publisher",
+        "./skills/huggingface-tool-builder",
+        "./skills/huggingface-trackio"
       ]
     },
     {

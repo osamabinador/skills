@@ -102,14 +102,14 @@ Specialized capabilities for AI/ML tasks including dataset creation, model train
 
 | Skill | Description |
 |-------|-------------|
-| [hf-hugging-face-cli](skills/hf-hugging-face-cli/) | Execute Hugging Face Hub operations using the hf CLI. Download models/datasets, upload files, manage repos, and run cloud compute jobs |
-| [hf-hugging-face-datasets](skills/hf-hugging-face-datasets/) | Create and manage datasets on Hugging Face Hub. Supports initializing repos, defining configs/system prompts, streaming row updates, and SQL-based dataset querying/transformation |
-| [hf-hugging-face-evaluation](skills/hf-hugging-face-evaluation/) | Add and manage evaluation results in Hugging Face model cards. Supports extracting eval tables from README content, importing scores from Artificial Analysis API, and running custom evaluations |
-| [hf-hugging-face-jobs](skills/hf-hugging-face-jobs/) | Run compute jobs on Hugging Face infrastructure. Execute Python scripts, manage scheduled jobs, and monitor job status |
-| [hf-hugging-face-model-trainer](skills/hf-hugging-face-model-trainer/) | Train or fine-tune language models using TRL on Hugging Face Jobs infrastructure. Covers SFT, DPO, GRPO and reward modeling training methods, plus GGUF conversion for local deployment |
-| [hf-hugging-face-paper-publisher](skills/hf-hugging-face-paper-publisher/) | Publish and manage research papers on Hugging Face Hub. Supports creating paper pages, linking papers to models/datasets, claiming authorship, and generating professional markdown-based research articles |
-| [hf-hugging-face-tool-builder](skills/hf-hugging-face-tool-builder/) | Build reusable scripts for Hugging Face API operations. Useful for chaining API calls or automating repeated tasks |
-| [hf-hugging-face-trackio](skills/hf-hugging-face-trackio/) | Track and visualize ML training experiments with Trackio. Log metrics via Python API and retrieve them via CLI. Supports real-time dashboards synced to HF Spaces |
+| [huggingface-cli](skills/huggingface-cli/) | Execute Hugging Face Hub operations using the hf CLI. Download models/datasets, upload files, manage repos, and run cloud compute jobs |
+| [huggingface-datasets](skills/huggingface-datasets/) | Create and manage datasets on Hugging Face Hub. Supports initializing repos, defining configs/system prompts, streaming row updates, and SQL-based dataset querying/transformation |
+| [huggingface-evaluation](skills/huggingface-evaluation/) | Add and manage evaluation results in Hugging Face model cards. Supports extracting eval tables from README content, importing scores from Artificial Analysis API, and running custom evaluations |
+| [huggingface-jobs](skills/huggingface-jobs/) | Run compute jobs on Hugging Face infrastructure. Execute Python scripts, manage scheduled jobs, and monitor job status |
+| [huggingface-model-trainer](skills/huggingface-model-trainer/) | Train or fine-tune language models using TRL on Hugging Face Jobs infrastructure. Covers SFT, DPO, GRPO and reward modeling training methods, plus GGUF conversion for local deployment |
+| [huggingface-paper-publisher](skills/huggingface-paper-publisher/) | Publish and manage research papers on Hugging Face Hub. Supports creating paper pages, linking papers to models/datasets, claiming authorship, and generating professional markdown-based research articles |
+| [huggingface-tool-builder](skills/huggingface-tool-builder/) | Build reusable scripts for Hugging Face API operations. Useful for chaining API calls or automating repeated tasks |
+| [huggingface-trackio](skills/huggingface-trackio/) | Track and visualize ML training experiments with Trackio. Log metrics via Python API and retrieve them via CLI. Supports real-time dashboards synced to HF Spaces |
 
 ---
 
@@ -318,14 +318,14 @@ Skills for business communications:
 
 Specialized skills for machine learning workflows:
 
-- **hf-hugging-face-cli** - Hub CLI operations
-- **hf-hugging-face-datasets** - Dataset management
-- **hf-hugging-face-evaluation** - Model evaluation
-- **hf-hugging-face-jobs** - Compute job management
-- **hf-hugging-face-model-trainer** - Model training and fine-tuning
-- **hf-hugging-face-paper-publisher** - Research paper publishing
-- **hf-hugging-face-tool-builder** - Custom tool development
-- **hf-hugging-face-trackio** - Experiment tracking
+- **huggingface-cli** - Hub CLI operations
+- **huggingface-datasets** - Dataset management
+- **huggingface-evaluation** - Model evaluation
+- **huggingface-jobs** - Compute job management
+- **huggingface-model-trainer** - Model training and fine-tuning
+- **huggingface-paper-publisher** - Research paper publishing
+- **huggingface-tool-builder** - Custom tool development
+- **huggingface-trackio** - Experiment tracking
 
 ---
 
